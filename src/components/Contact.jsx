@@ -32,11 +32,7 @@ export default function Contact() {
         createdAt: serverTimestamp(),
       });
 
-      // ✅ 2. Send Email
-      // await sendEmail(formData);
-
       toast.success("Message sent successfully! 🚀");
-
       setFormData({
         name: "",
         email: "",

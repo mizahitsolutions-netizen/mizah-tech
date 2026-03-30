@@ -37,7 +37,7 @@ export default function CtaBanner({ scrollTo }) {
                 Get Free Quote →
               </button>
               <a
-                href="tel:+919876543210"
+                href="tel:+919677471102"
                 className="inline-flex items-center gap-2 bg-white/[0.06] border border-white/12 text-slate-400 px-10 py-4 rounded-xl font-semibold text-base no-underline font-sans hover:bg-white/10 transition-colors"
               >
                 📞 Call Us Now

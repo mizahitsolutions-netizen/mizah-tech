@@ -19,7 +19,7 @@ export default function About() {
         <FadeIn>
           <div className="relative">
             <div className="bg-gradient-to-br from-brand-blue/12 to-brand-cyan/6 border border-brand-blue/20 rounded-3xl p-12">
-              <div className="font-display text-7xl font-black text-brand-blue leading-none">5+</div>
+              <div className="font-display text-7xl font-black text-brand-blue leading-none">2+</div>
               <div className="text-base text-slate-400 mt-2 mb-8">Years of Building Digital Excellence</div>
               <div className="grid grid-cols-2 gap-5">
                 {STATS.map((s) => (

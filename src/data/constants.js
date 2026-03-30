@@ -11,7 +11,13 @@ export const SERVICES = [
     icon: "🌐",
     title: "Website Development",
     desc: "Lightning-fast, SEO-optimized websites built to convert visitors into customers. From landing pages to full corporate portals.",
-    highlight: "From ₹15,000",
+    highlight: "From ₹9,999",
+  },
+  {
+    icon: "📱",
+    title: "Mobile App Development",
+    desc: "High-performance Android & iOS apps built with modern frameworks, delivering seamless user experiences and real business impact.",
+    highlight: "iOS & Android",
   },
   {
     icon: "🛒",
@@ -20,16 +26,16 @@ export const SERVICES = [
     highlight: "Scalable & Secure",
   },
   {
+    icon: "📈",
+    title: "Digital Marketing",
+    desc: "Data-driven marketing strategies including SEO, social media, and paid ads to boost visibility, traffic, and conversions.",
+    highlight: "Growth Focused",
+  },
+  {
     icon: "⚙️",
     title: "Custom Web Applications",
     desc: "Bespoke web apps engineered for your exact workflow — dashboards, CRMs, portals, ERPs — built to scale with your business.",
     highlight: "Fully Custom",
-  },
-  {
-    icon: "🎨",
-    title: "UI/UX Design",
-    desc: "User-first design that reduces friction and drives action. Wireframes, prototypes, and pixel-perfect design systems.",
-    highlight: "Design That Converts",
   },
   {
     icon: "🤖",
@@ -38,10 +44,10 @@ export const SERVICES = [
     highlight: "Future-Ready",
   },
   {
-    icon: "🔧",
-    title: "Maintenance & Support",
-    desc: "Round-the-clock monitoring, updates, and priority support so your digital assets never skip a beat.",
-    highlight: "24/7 Support",
+    icon: "🎨",
+    title: "UI/UX Design",
+    desc: "User-first design that reduces friction and drives action. Wireframes, prototypes, and pixel-perfect design systems.",
+    highlight: "Design That Converts",
   },
   {
     icon: "🏢",
@@ -54,6 +60,12 @@ export const SERVICES = [
     title: "Domain & Hosting",
     desc: "Blazing-fast cloud hosting, SSL certificates, domain registration, and managed infrastructure — all under one roof.",
     highlight: "99.9% Uptime SLA",
+  },
+  {
+    icon: "🔧",
+    title: "Maintenance & Support",
+    desc: "Round-the-clock monitoring, updates, and priority support so your digital assets never skip a beat.",
+    highlight: "24/7 Support",
   },
 ];
 
@@ -158,6 +170,6 @@ export const WHY_US = [
 
 export const CONTACT_INFO = [
   { icon: "📧", label: "Email", value: "info@mizahtechnologies.in" },
-  { icon: "📞", label: "Phone", value: "+91 96774 71102"},
+  { icon: "📞", label: "Phone", value: "+91 96774 71102" },
   { icon: "📍", label: "Location", value: "Dindigul, Tamil Nadu, India" },
 ];
